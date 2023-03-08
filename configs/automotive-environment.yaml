@@ -35,6 +35,7 @@ data:
     - greenboot
     - hostapd
     - hostname
+    - irqbalance
     - jose
     - jq
     - kernel-automotive
